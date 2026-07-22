@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 TVS Eurogrip, despite having a strong manufacturing base, global presence, and advanced R&D capabilities, faces challenges in customer trust, brand recall, and aftermarket penetration.
 
@@ -13,7 +13,7 @@ This project aimed to identify the root causes behind these challenges and recom
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 Develop a strategic roadmap that enables TVS Eurogrip to:
 
@@ -25,7 +25,7 @@ Develop a strategic roadmap that enables TVS Eurogrip to:
 
 ---
 
-## 👨‍💼 My Contribution
+## My Contribution
 
 As part of a three-member team, I contributed to:
 
@@ -39,7 +39,7 @@ As part of a three-member team, I contributed to:
 
 ---
 
-## 🔍 Research Methodology
+## Research Methodology
 
 ### Primary Research
 - Surveyed mechanics and customers to understand purchasing behaviour and brand perception.
@@ -54,7 +54,7 @@ As part of a three-member team, I contributed to:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 ### Customer Pain Points
 - Low brand recall among younger riders.
@@ -70,7 +70,7 @@ As part of a three-member team, I contributed to:
 
 ---
 
-## 🏁 Competitor Analysis
+## Competitor Analysis
 
 Compared TVS Eurogrip against:
 
@@ -92,7 +92,7 @@ Evaluation parameters included:
 
 ---
 
-## 📈 Strategic Frameworks Applied
+## Strategic Frameworks Applied
 
 - Customer Journey Mapping
 - SWOT Analysis
@@ -104,7 +104,7 @@ Evaluation parameters included:
 
 ---
 
-## 💡 Proposed Solutions
+## Proposed Solutions
 
 The recommended strategy focused on:
 
@@ -119,7 +119,7 @@ The recommended strategy focused on:
 
 ---
 
-## 🗺️ Implementation Roadmap
+## Implementation Roadmap
 
 A phased implementation plan was designed covering:
 
@@ -132,7 +132,7 @@ A phased implementation plan was designed covering:
 
 ---
 
-## 📌 Expected Business Impact
+## Expected Business Impact
 
 The proposed strategy aims to:
 
@@ -144,7 +144,7 @@ The proposed strategy aims to:
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - Business Strategy
 - Market Research
@@ -159,7 +159,7 @@ The proposed strategy aims to:
 
 ---
 
-## 🏆 Competition Outcome
+## Competition Outcome
 
 🏅 National Finalist
 
@@ -167,7 +167,7 @@ Top **28 teams** among **41,500+ participating teams** nationwide.
 
 ---
 
-## 👥 Team
+## Team
 
 - Surya Pratap Singh
 - **Yashu Mittal**
@@ -175,7 +175,7 @@ Top **28 teams** among **41,500+ participating teams** nationwide.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository presents a summary of the strategic recommendations developed during the TVS Eurogrip TORQ Challenge 3.0.
 
@@ -183,12 +183,14 @@ To respect intellectual property and competition guidelines, the complete presen
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Yashu Mittal**
 
 MBA | ABV-IIITM Gwalior
 
-📧 yashu-mittal@outlook.com
+Email: yashu-mittal@outlook.com
+LinkedIn: https://linkedin.com/in/yashu-mittal
+
 
 🔗 LinkedIn: https://linkedin.com/in/yashu-mittal
