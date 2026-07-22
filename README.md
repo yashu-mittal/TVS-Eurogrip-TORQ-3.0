@@ -180,14 +180,3 @@ Top **28 teams** among **41,500+ participating teams** nationwide.
 This repository presents a summary of the strategic recommendations developed during the TVS Eurogrip TORQ Challenge 3.0.
 
 To respect intellectual property and competition guidelines, the complete presentation, detailed research data, and supporting working files have not been made publicly available. This repository showcases the project's methodology, analytical approach, and key business insights for portfolio purposes.
-
----
-
-## Contact
-
-**Yashu Mittal**
-
-MBA | ABV-IIITM Gwalior
-
-Email: yashu-mittal@outlook.com
-LinkedIn: https://linkedin.com/in/yashu-mittal
