@@ -191,6 +191,3 @@ MBA | ABV-IIITM Gwalior
 
 Email: yashu-mittal@outlook.com
 LinkedIn: https://linkedin.com/in/yashu-mittal
-
-
-🔗 LinkedIn: https://linkedin.com/in/yashu-mittal
