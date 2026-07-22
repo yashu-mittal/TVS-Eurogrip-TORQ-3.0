@@ -161,7 +161,7 @@ The proposed strategy aims to:
 
 ## Competition Outcome
 
-🏅 National Finalist
+National Finalist
 
 Top **28 teams** among **41,500+ participating teams** nationwide.
 
